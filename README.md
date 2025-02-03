@@ -10,4 +10,6 @@ Author : Sagar Kowe
 - Free and Open Source. 
 - Heavily inspired from Unreal Engine's Blueprints and Node editors.
 
+`Saber` is still in pre-alpha, as such it has very rudimentary and proof-of-concept so far. Its a hobby project of mine so I'll slowly keep adding stuff mentioned in the TODO.
+
 `Saber` is named after my late cat Saber, may she rest in peace. Made free and open source to immortalize her name and contribute to the community.
