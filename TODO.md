@@ -1,0 +1,15 @@
+- [x] Finish Classes
+	- [x] Test Classes
+- [x] Imports
+- [ ] Variables(?)
+	- [ ] Global variables
+	- [ ] Local variables
+- [ ] Scope using branch anchors
+- [x] Branching
+- [ ] Iterating through an iterator
+- [x] Call a python file from graph
+- [ ] Call a graph from a python file
+- [ ] functions
+- [ ] Nesting of functions
+- [x] Chaining Literals
+- [ ] Problem with phantom elements
