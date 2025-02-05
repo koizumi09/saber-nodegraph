@@ -2,7 +2,7 @@
 	- [x] Test Classes
 - [x] Imports
 - [ ] Variables(?)
-	- [ ] Global variables
+	- [x] Global variables
 	- [ ] Local variables
 - [ ] Scope using branch anchors
 - [x] Branching
@@ -13,3 +13,6 @@
 - [ ] Nesting of functions
 - [x] Chaining Literals
 - [ ] Problem with phantom elements
+	- Arrows that have been deleted sometimes seem to leave their data in `boundElements` property of other elements.
+- [x] Simplify Expressions
+- [ ] Add more classes

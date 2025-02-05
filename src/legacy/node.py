@@ -325,7 +325,7 @@ class Variable(Element):
             # When no source is detected, value is what is stored in the global variable
             if not self.source():
                 return f"{globals()[self.text]}"
-            # When no source is detected, value is calculated recursively by traversing the branch to the end
+            # When source is detected, value is calculated recursively by traversing the branch to the end
             else:
                 if globals()[self.text] == None:
                     globals()[self.text] = ""
