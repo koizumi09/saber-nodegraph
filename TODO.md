@@ -15,4 +15,5 @@
 - [ ] Problem with phantom elements
 	- Arrows that have been deleted sometimes seem to leave their data in `boundElements` property of other elements.
 - [x] Simplify Expressions
+- [ ] Add function calling in simplified expressions
 - [ ] Add more classes
