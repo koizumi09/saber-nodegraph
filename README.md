@@ -14,7 +14,9 @@ Author : Sagar Kowe
 ## Get Started
 By default, the excalidraw file being executed is `main.excalidraw` in the root of this repository. All the node graph building goes there.
 
-Run the `main.py` to execute the `Saber` graph.
+Run the `main.py` to execute the `main.excalidraw` `Saber` graph.
+
+Learn more about graph scripting in [[Saber Graph Visual Programming Guide.excalidraw]]
 
 ## Structure
 The execution of the graph is rather straightforward (yet nuanced).
